@@ -2,7 +2,6 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Carnegie Mellon University
 
 profile:
   align: right
@@ -14,17 +13,18 @@ profile:
   #   <p>Your City, State 12345</p>
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
  Hi! I'm a (rising) third year Ph.D. student in  <a href="https://www.hcii.cmu.edu/academics/phd-hci" rel="external nofollow noopener" target="_blank">HCII</a> at Carnegie Mellon University advised by <a href="https://www.hcii.cmu.edu/people/motahhare-eslami" rel="external nofollow noopener" target="_blank">Motahhare Eslami</a> and <a href="https://haiyizhu.com/" rel="external nofollow noopener" target="_blank"> Haiyi Zhu</a>.             
   My research goal is to understand how to operationalize values such as equity and fairness in data-driven technologies and artificial intelligence.
-  My current project involves understanding what embedding fairness means in technology and surfacing different perceptions from various stakeholders.
+  My current project involves understanding what embedding fairness means in technology and surfacing different perceptions from various stakeholders. 
 
 
-  Previously, I received my  <a href="https://www.cs.cornell.edu/ms" rel="external nofollow noopener" target="_blank"> Master of Science (M.S.) in Computer Science </a> at Cornell University.  I was advised by [Malte Jung](https://mjung.infosci.cornell.edu/) and  <a href="https://infosci.cornell.edu/content/fussell" rel="external nofollow noopener" target="_blank"> Susan Fussell </a>
+  Previously, I received my  <a href="https://www.cs.cornell.edu/ms" rel="external nofollow noopener" target="_blank"> Master of Science (M.S.) in Computer Science </a> at Cornell University.  I was advised by [Malte Jung](https://mjung.infosci.cornell.edu/) and  <a href="https://infosci.cornell.edu/content/fussell" rel="external nofollow noopener" target="_blank"> Susan Fussell </a>.
+
   I received my B.S. at Cornell University majoring in Computer Science and minoring in Information Science.
 
 <!--
