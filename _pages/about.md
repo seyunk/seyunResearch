@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
- Hi! I'm a (rising) third year Ph.D. student in  <a href="https://www.hcii.cmu.edu/academics/phd-hci" rel="external nofollow noopener" target="_blank">HCII</a> at Carnegie Mellon University advised by <a href="https://www.hcii.cmu.edu/people/motahhare-eslami" rel="external nofollow noopener" target="_blank">Motahhare Eslami</a> and <a href="https://haiyizhu.com/" rel="external nofollow noopener" target="_blank"> Haiyi Zhu</a>.             
+ Hi! I'm a (rising) third year Ph.D. student in School of Computer Science <a href="https://www.hcii.cmu.edu/academics/phd-hci" rel="external nofollow noopener" target="_blank">HCII</a> at Carnegie Mellon University advised by <a href="https://www.hcii.cmu.edu/people/motahhare-eslami" rel="external nofollow noopener" target="_blank">Motahhare Eslami</a> and <a href="https://haiyizhu.com/" rel="external nofollow noopener" target="_blank"> Haiyi Zhu</a>.             
   My research goal is to understand how to operationalize values such as equity and fairness in data-driven technologies and artificial intelligence.
   My current project involves understanding what embedding fairness means in technology and surfacing different perceptions from various stakeholders.
 
