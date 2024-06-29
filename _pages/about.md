@@ -18,10 +18,14 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
- Hi! I'm a (rising) third year Ph.D. student in School of Computer Science <a href="https://www.hcii.cmu.edu/academics/phd-hci" rel="external nofollow noopener" target="_blank">HCII</a> at Carnegie Mellon University advised by <a href="https://www.hcii.cmu.edu/people/motahhare-eslami" rel="external nofollow noopener" target="_blank">Motahhare Eslami</a> and <a href="https://haiyizhu.com/" rel="external nofollow noopener" target="_blank"> Haiyi Zhu</a>.             
+ Hi! I'm a soon-to- be fourth year Ph.D. student in School of Computer Science <a href="https://www.hcii.cmu.edu/academics/phd-hci" rel="external nofollow noopener" target="_blank">HCII</a> at Carnegie Mellon University advised by <a href="https://www.hcii.cmu.edu/people/motahhare-eslami" rel="external nofollow noopener" target="_blank">Motahhare Eslami</a> and <a href="https://haiyizhu.com/" rel="external nofollow noopener" target="_blank"> Haiyi Zhu</a>.             
   My research goal is to understand how to operationalize values such as equity and fairness in data-driven technologies and artificial intelligence.
-  My current project involves understanding what embedding fairness means in technology and surfacing different perceptions from various stakeholders.
 
+
+  My current project involves understanding what embedding equity means in technology and surfacing different perceptions from various stakeholders.
+  I have been also interested in how we can design technologies including AI to create <b> equitable outcomes </b>.  
+  
+  I've investigated equity in the context of the public sector and currently exploring health equity in the context of breast cancer screening.
 
   Previously, I received my  <a href="https://www.cs.cornell.edu/ms" rel="external nofollow noopener" target="_blank"> Master of Science (M.S.) in Computer Science </a> at Cornell University.  I was advised by [Malte Jung](https://mjung.infosci.cornell.edu/) and  <a href="https://infosci.cornell.edu/content/fussell" rel="external nofollow noopener" target="_blank"> Susan Fussell </a>.
 
