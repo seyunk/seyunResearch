@@ -24,12 +24,14 @@ social: true  # includes social icons at the bottom of the page
 
   My current project involves understanding what embedding equity means in technology and surfacing different perceptions from various stakeholders.
   I have been also interested in how we can design technologies including AI to create <b> equitable outcomes </b>.  
-  
+
   I've investigated equity in the context of the public sector and currently exploring health equity in the context of breast cancer screening.
 
   Previously, I received my  <a href="https://www.cs.cornell.edu/ms" rel="external nofollow noopener" target="_blank"> Master of Science (M.S.) in Computer Science </a> at Cornell University.  I was advised by [Malte Jung](https://mjung.infosci.cornell.edu/) and  <a href="https://infosci.cornell.edu/content/fussell" rel="external nofollow noopener" target="_blank"> Susan Fussell </a>.
 
   I received my B.S. at Cornell University majoring in Computer Science and minoring in Information Science.
+
+  My email is seyunkim[at]cs.cmu.edu
 
 <!--
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
