@@ -1,10 +1,3 @@
-## Seyun's comments use these commands to run the website on local server 
-
-bundle install  
-bundle exec jekyll serve --lsi
-
-
-
 # al-folio
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [maintainers]: https://img.shields.io/badge/maintainers-4-success.svg 'Number of maintainers'
